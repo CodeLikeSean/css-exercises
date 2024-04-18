@@ -1,0 +1,19 @@
+.oddtext{
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#firstid{
+    color: blue;
+    font-size: 36px;
+}
+
+.oddtext.adjust-font-size{
+    font-size: 24px;
+}
+
+#secondid{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
